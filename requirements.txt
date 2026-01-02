@@ -1,0 +1,6 @@
+# Library Utama untuk Eksperimen_MSML.ipynb
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
